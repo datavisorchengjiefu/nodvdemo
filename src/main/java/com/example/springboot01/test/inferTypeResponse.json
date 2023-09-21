@@ -1,0 +1,17 @@
+[
+  {
+    "ColumnName": "isBad",
+    "InferType": "Boolean",
+    "Warning": ""
+  },
+  {
+    "ColumnName": "weekly_amount",
+    "InferType": "Double",
+    "Warning": ""
+  },
+  {
+    "ColumnName": "test",
+    "InferType": "NONE",
+    "Warning": "The data is abnormal. Please have a look! "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "columnName": "isBad",
+    "Long": 20,
+    "String": 10,
+    "Boolean": 40,
+    "Integer": 30
+  },
+  {
+    "columnName": "weekly_amount",
+    "Long": 20,
+    "String": 10,
+    "Double": 70
+  }
+]
